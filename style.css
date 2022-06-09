@@ -1,0 +1,30 @@
+body {
+  background-color: #ffe0b2;
+}
+
+.int_facts_table {
+  border: 1px;
+  border-collapse: collapse;
+}
+
+.int_facts_div {
+  background-color: AliceBlue;
+  border: solid;
+  border-width: 1px;
+  border-color: CornflowerBlue;
+  margin: 0px 2px 15px 2px;
+  padding: 0px 17px 5px 17px;
+  border-radius: 20px;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+th {
+  border: 1px solid;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+
+td {
+  text-align: center;
+  border: 1px solid;
+}
